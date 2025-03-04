@@ -7,7 +7,7 @@
 }
 
 :root {
-    @apply dark:bg-indigo-950 dark:text-white bg-white text-indigo-950;
+    @apply dark:bg-indigo-950 dark:text-indigo-100 bg-[#ddf3ff] text-slate-600;
 
     font-family: sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
 }
